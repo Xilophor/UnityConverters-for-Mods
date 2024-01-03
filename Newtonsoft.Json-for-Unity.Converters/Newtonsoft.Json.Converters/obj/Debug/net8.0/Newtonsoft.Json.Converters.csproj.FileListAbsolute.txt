@@ -1,0 +1,15 @@
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/bin/Debug/net8.0/Newtonsoft.Json.Converters.deps.json
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/bin/Debug/net8.0/Newtonsoft.Json.Converters.dll
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/bin/Debug/net8.0/Newtonsoft.Json.Converters.pdb
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.csproj.AssemblyReference.cache
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.GeneratedMSBuildEditorConfig.editorconfig
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.AssemblyInfoInputs.cache
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.AssemblyInfo.cs
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.csproj.CoreCompileInputs.cache
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.sourcelink.json
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.csproj.CopyComplete
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.dll
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/refint/Newtonsoft.Json.Converters.dll
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/Newtonsoft.Json.Converters.pdb
+/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/obj/Debug/net8.0/ref/Newtonsoft.Json.Converters.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "On04263rBzzP6TWEMrEpsUzyoHe0RRmJlUDpSXcKnn2jVtmpNWV5FVEXjdoY9rb/HgFYX1ANA/jB3iKIx4N2IA==",
+  "success": true,
+  "projectFilePath": "/home/ryan/Documents/Repos/UnityConverters-for-Mods/Newtonsoft.Json-for-Unity.Converters/Newtonsoft.Json.Converters/Newtonsoft.Json.Converters.csproj",
+  "expectedPackageFiles": [
+    "/home/ryan/.nuget/packages/unityengine.modules/2018.4.36/unityengine.modules.2018.4.36.nupkg.sha512"
+  ],
+  "logs": []
+}
